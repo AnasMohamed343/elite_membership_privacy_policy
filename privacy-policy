@@ -11,7 +11,10 @@ Full name, Contact details (email, phone number), address, job, payment details 
 App Usage Data:
 Login information, Membership details, Interact with app features
 Device information:
-Device type, operating system, IP address
+Device type, operating system, IP address.
+The phone number is optional during account creation.
+The phone number is required during collecting user information before the payment process.
+Why the phone number is required (for transaction verification or communication).
 
 How We Use User Information
 The information we collect is used to provide and manage user membership card services, Facilitate healthcare discounts at partner facilitate, Communicate with user regarding updates, offers, or support, improve app performance ans user experience.
