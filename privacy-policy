@@ -87,7 +87,7 @@ Links to Third-Party Services
 
 Our app may link to third-party websites or services (e.g., Stripe for payment processing, Google Maps for provider directions). We are not responsible for the privacy practices of these external sites. Please review their policies separately.
 
-We no longer use Firebase Analytics or Advertising ID tracking in our app.
+We no longer use Firebase Analytics.
 
 Security
 
