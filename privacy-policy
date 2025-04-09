@@ -1,56 +1,113 @@
 Privacy Policy
-We takes your privacy seriously. To better protect your privacy We provide this privacy policy notice explaining the way your personal information is collected and used.
+
+We take your privacy seriously. To better protect your privacy, we provide this privacy policy notice explaining the way your personal information is collected and used.
 
 Collection of Routine Information
-This app track basic information about their users. This information includes, but is not limited to, IP addresses, app details, timestamps and referring pages. None of this information can personally identify specific user to this app. The information is tracked for routine administration and maintenance purposes.
+
+This app tracks basic information about its users. This includes, but is not limited to, IP addresses, device details, timestamps, and referring screens. None of this information can personally identify a specific user. The information is tracked for routine administration and app optimization purposes.
 
 Information We Collect
-We may collect the following types information:
+
+We may collect the following types of information:
+
 Personal Information:
-Full name, Contact details (email, phone number), address, job, payment details (if applicable)
+
+Full name
+
+Contact details (email, phone number)
+
+Address
+
+Job title
+
+Payment-related information (handled securely via Stripe)
+
+Mobile number (optional at account creation, required before initiating a membership purchase)
+Why the Mobile number is required before initiating a membership purchase (for transaction verification or communication).
+
 App Usage Data:
-Login information, Membership details, Interact with app features
-Device information:
-Device type, operating system, IP address.
-The phone number is optional during account creation.
-The phone number is required during collecting user information before the payment process.
-Why the phone number is required (for transaction verification or communication).
 
-Phone Numbers for Doctors or Hospitals of Healthcare partners
-My app provides phone numbers for doctors or hospitals of Healthcare partners.
-Users can call these numbers by being redirected to their device’s dialer.
+Login activity
 
-How We Use User Information
-The information we collect is used to provide and manage user membership card services, Facilitate healthcare discounts at partner facilitate, Communicate with user regarding updates, offers, or support, improve app performance ans user experience.
+Membership status
 
-How We Share User Information
+User interaction with app features, including provider views and region selections
+
+Device Information:
+
+Device type
+
+Operating system
+
+IP address
+
+Use of Google Maps API
+
+The app uses the Google Maps API to display the location of healthcare providers (hospitals, doctors, pharmacies, labs, radiology centers, and optical clinics) based on the user’s selected region (Egypt or UAE). Location access is only used for showing providers location within the selected region and is not stored or tracked.
+
+Phone Numbers of Healthcare Providers
+
+Our app includes clickable phone numbers for healthcare providers. When users tap these numbers, they are redirected to their device’s dialer to initiate a call. We do not record or monitor these calls.
+
+How We Use Your Information
+
+We use collected information to:
+
+Provide and manage digital membership card functionality
+
+Help users locate and connect with participating healthcare providers
+
+Facilitate secure payments for the membership card through Stripe
+
+Display relevant discounts and provider details based on region
+
+Communicate important updates or support-related information
+
+Improve app performance and user experience
+
+Information Sharing
+
 We may share user information with:
-Healthcare partners to verify user membership and apply discounts.
-Service providers For payment processing,
-We will never sell user personal information to third parties.
+
+Healthcare partners to verify valid membership status and offer discounts
+
+Stripe for payment processing (subject to their own privacy and security standards)
+
+We will never sell or rent your personal information to third parties.
 
 Cookies
-Where necessary, this app uses cookies to store information about a visitor’s preferences and history in order to better serve the user and present the user with customized content. You can manage your cookie preferences through your device settings.
 
-Advertisement and Other Third Parties
-Advertising partners and other third parties may use cookies, scripts or web beacons to track user activities on this app in order to display advertisements and other useful information. Such tracking is done directly by the third parties through their own servers and is subject to their own privacy policies. This app has no access or control over these cookies, scripts or web beacons that may be used by third parties.
+Where necessary, this app may use cookies or local storage to improve user experience, store preferences, and enable certain features. You can manage or disable cookies via your device settings.
 
-Links to Third Party Websites
-We have included links on this app for your use and reference. We are not responsible for the privacy policies on these websites. You should be aware that the privacy policies of these websites may differ from our own.
+Advertisement and Third Parties
+
+We currently do not serve third-party advertisements within this app. If this changes, the privacy policy will be updated accordingly, and users will be informed in advance.
+
+Links to Third-Party Services
+
+Our app may link to third-party websites or services (e.g., Stripe for payment processing, Google Maps for provider directions). We are not responsible for the privacy practices of these external sites. Please review their policies separately.
+
+We no longer use Firebase Analytics or Advertising ID tracking in our app.
 
 Security
-The security of your personal information is important to us, but remember that no method of transmission over the Internet, or method of electronic storage, is 100% secure. While we strive to use commercially acceptable means to protect your personal information,We cannot guarantee its absolute security.
-We use industry-standard security measures to:
-Encrypt sensitive data during transmission.
-Safeguard stored data against unauthorized access.
-Regularly monitor and update our systems for vulnerabilities.
 
+We use industry-standard security practices to:
+
+Encrypt sensitive data (e.g., during Stripe payment transactions)
+
+Prevent unauthorized access to stored data
+
+Monitor and update our systems regularly for potential vulnerabilities
+
+However, no digital transmission or storage method can be guaranteed 100% secure.
 
 Changes To This Privacy Policy
-This Privacy Policy is effective as of March 16, 2025 and will remain in effect except with respect to any changes in its provisions in the future, which will be in effect immediately after being posted on this page.
 
-We reserve the right to update or change our Privacy Policy at any time and you should check this Privacy Policy periodically. If we make any material changes to this Privacy Policy, we will notify you either through the email address you have provided us, or by placing a prominent notice on our app.
+This Privacy Policy is effective as of April 9, 2025, and may be updated from time to time. Material changes will be posted in-app or via email, depending on the nature of the update.
 
 Contact Information
-For any questions or concerns regarding the privacy policy, please contact us at: info@elitessg.com
-or by phone number: +201091738303
+
+If you have any questions about this Privacy Policy or how your information is handled, please contact us:
+
+Email: info@elitessg.com
+Phone: +201091738303
