@@ -101,9 +101,13 @@ Monitor and update our systems regularly for potential vulnerabilities
 
 However, no digital transmission or storage method can be guaranteed 100% secure.
 
+key changes to this Privacy Policy vs last version
+Set Stripe to  live mode to accept live payments,
+changed the stripe publishable key to live key in my app, and changed the stripe secret key to live key in the backend.
+
 Changes To This Privacy Policy
 
-This Privacy Policy is effective as of April 9, 2025, and may be updated from time to time. Material changes will be posted in-app or via email, depending on the nature of the update.
+This Privacy Policy is effective as of April 28, 2025, and may be updated from time to time. Material changes will be posted in-app or via email, depending on the nature of the update.
 
 Contact Information
 
